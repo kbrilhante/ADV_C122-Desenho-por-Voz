@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+    color: red;
+}
+
+canvas {
+    background: pink;
+    border-radius: 20px;
+    margin-top: 10px;
+}
